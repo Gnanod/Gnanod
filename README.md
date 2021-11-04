@@ -8,11 +8,15 @@
 </span>
 
 
+
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Springboot,Nodejs,React
 - 💬 Ask me about  related to Java/Springboot/Nodejs/React
 - 📫 How to reach me: https://gnanod-portfolio.netlify.app/
 - ⚡ Fun fact: I ❤️💻👨‍🎓👫🖥
+
+<br />
+<br />
 
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
