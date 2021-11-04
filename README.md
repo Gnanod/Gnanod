@@ -1,7 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Gnanod Chathuramadu</h1>
+<h3 align="center">I'm a Software Engineer | Full Stack Developer | Innovator | Undergraduate | Student </h3>
 
-<!--
-**Gnanod/Gnanod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![GitHub followers](https://img.shields.io/github/followers/Gnanod?logo=GitHub&style=for-the-badge)][github]
+[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=linkedin.com/in/gnanod-chathuramadu-379847130/)][linkedin]
+
 
 Here are some ideas to get you started:
 
@@ -12,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about  related to Java/Springboot/Nodejs/React
 - 📫 How to reach me: https://gnanod-portfolio.netlify.app/
 - ⚡ Fun fact: 💻❤️ 👨‍🎓👫🖥
--->
+
 
