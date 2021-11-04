@@ -16,7 +16,6 @@
 - ⚡ Fun fact: I ❤️💻👨‍🎓👫🖥
 
 <br />
-<br />
 
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
