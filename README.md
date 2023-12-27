@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gnanod Chathuramadu</h1>
-<h3 align="center">I'm a Software Engineer | Full Stack Developer | Innovator | Undergraduate | Student </h3>
+<h3 align="center">I'm a Software Engineer | Full Stack Developer| Senior Software Engineer | Innovator  </h3>
 <span  align="center"> 
   
 [![GitHub followers](https://img.shields.io/github/followers/Gnanod?logo=GitHub&style=for-the-badge)](https://github.com/Gnanod)
